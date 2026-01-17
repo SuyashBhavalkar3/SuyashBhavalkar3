@@ -74,9 +74,21 @@ Developed a secure web-based encryption platform for protecting sensitive inform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Security](https://img.shields.io/badge/Security-FF6B6B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 
 ---
-
+<!--
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical) -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashBhavalkar3&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
 
 ---
 
