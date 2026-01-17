@@ -78,9 +78,6 @@ Developed a secure web-based encryption platform for protecting sensitive inform
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical) -->
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-suyash-bhavalkars-projects.vercel.app/api?username=SuyashBhavalkar3&v=2" />
 
 ---
 
