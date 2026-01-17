@@ -80,15 +80,7 @@ Developed a secure web-based encryption platform for protecting sensitive inform
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-suyash-bhavalkars-projects.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&disable_animations=true&format=svg" height="165"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashBhavalkar3&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-suyash-bhavalkars-projects.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&disable_animations=true&format=svg"/>
-</p>
+<img src="https://github-readme-stats-suyash-bhavalkars-projects.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical&hide_border=true" />
 
 
 ---
