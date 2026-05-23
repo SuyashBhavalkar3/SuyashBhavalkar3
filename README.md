@@ -48,6 +48,9 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <img src="https://img.shields.io/badge/LLM_Orchestration-10141d?style=flat-square&logo=openai&logoColor=00f2fe" alt="LLMs" />
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>Languages</h4>
@@ -105,6 +108,9 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <p><sub><b>Impact:</b> Reduced manual presentation creation effort by 80% with real-time generations.</sub></p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>AdvocateGPT — RAG Legal Assistant</h4>
