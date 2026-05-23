@@ -135,9 +135,37 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 
 ---
 
-### Real-time Stats
+### Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&border_color=30363d&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SuyashBhavalkar3" width="100%" alt="3D Contribution Calendar" />
 </p>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Contribution Activity</h4>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashBhavalkar3&bg_color=050814&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Commit Streak Metrics</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashBhavalkar3&theme=dark&background=050814&fire=00f2fe&ring=00f2fe&currStreakLabel=00f2fe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SuyashBhavalkar3&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
+</p>
+
