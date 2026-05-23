@@ -11,24 +11,24 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am a **Computer Science Engineering student** at **Vishwakarma Institute of Technology (VIT), Pune**, specializing in **Artificial Intelligence & Machine Learning** (Expected May 2027). 
 
 I build high-performance backend systems and scale AI pipelines for real-world applications. My work focuses on distributed architectures, fault-tolerant system design, and sub-second latency optimization.
 
-*   🚀 **Performance Driven:** Engineered production-grade systems serving 1,000+ users with **<450ms latency**.
-*   🧠 **AI/ML Focus:** Experienced in LLM orchestration, RAG pipelines, and model fine-tuning/evaluation.
-*   📊 **Academics & Research:** Maintaining a **8.39 CGPA** with **2 IEEE publications** in AI-driven systems.
+*   **Performance Driven:** Engineered production-grade systems serving 1,000+ users with **<450ms latency**.
+*   **AI/ML Focus:** Experienced in LLM orchestration, RAG pipelines, and model fine-tuning/evaluation.
+*   **Academics & Research:** Maintaining a **8.39 CGPA** with **2 IEEE publications** in AI-driven systems.
 
 ---
 
-### 💻 Technical Toolbelt
+### Technical Toolbelt
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend &amp; Distributed Systems</h4>
+      <h4>Backend &amp; Distributed Systems</h4>
       <img src="https://img.shields.io/badge/FastAPI-10141d?style=flat-square&logo=fastapi&logoColor=00f2fe" alt="FastAPI" />
       <img src="https://img.shields.io/badge/REST_APIs-10141d?style=flat-square&logo=postman&logoColor=00f2fe" alt="REST" />
       <img src="https://img.shields.io/badge/WebSockets-10141d?style=flat-square&logo=socketdotio&logoColor=00f2fe" alt="WebSockets" />
@@ -39,7 +39,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <img src="https://img.shields.io/badge/Git-10141d?style=flat-square&logo=git&logoColor=00f2fe" alt="Git" />
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 Artificial Intelligence &amp; ML</h4>
+      <h4>Artificial Intelligence &amp; ML</h4>
       <img src="https://img.shields.io/badge/LangChain-10141d?style=flat-square&logo=chainlink&logoColor=00f2fe" alt="LangChain" />
       <img src="https://img.shields.io/badge/TensorFlow-10141d?style=flat-square&logo=tensorflow&logoColor=00f2fe" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/scikit--learn-10141d?style=flat-square&logo=scikitlearn&logoColor=00f2fe" alt="Scikit-Learn" />
@@ -50,7 +50,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔤 Languages</h4>
+      <h4>Languages</h4>
       <img src="https://img.shields.io/badge/Python-10141d?style=flat-square&logo=python&logoColor=00f2fe" alt="Python" />
       <img src="https://img.shields.io/badge/Node.js-10141d?style=flat-square&logo=nodedotjs&logoColor=00f2fe" alt="Node.js" />
       <img src="https://img.shields.io/badge/GoLang-10141d?style=flat-square&logo=go&logoColor=00f2fe" alt="GoLang" />
@@ -59,7 +59,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <img src="https://img.shields.io/badge/SQL-10141d?style=flat-square&logo=postgresql&logoColor=00f2fe" alt="SQL" />
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Frontend &amp; Deployments</h4>
+      <h4>Frontend &amp; Deployments</h4>
       <img src="https://img.shields.io/badge/React.js-10141d?style=flat-square&logo=react&logoColor=00f2fe" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-10141d?style=flat-square&logo=nextdotjs&logoColor=00f2fe" alt="Next" />
       <img src="https://img.shields.io/badge/Vue.js-10141d?style=flat-square&logo=vuedotjs&logoColor=00f2fe" alt="Vue" />
@@ -71,25 +71,25 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-*   🤖 **CodeSpyder Technologies** | **GenAI Intern** | *Feb 2026 – Present*
+*   **CodeSpyder Technologies** | **GenAI Intern** | *Feb 2026 – Present*
     *   Managing a team of **6 interns** developing a Learning Management System (LMS) scaling to **1,000+ users** and **100+ concurrent sessions**.
     *   Designed a FastAPI & Next.js backend with PostgreSQL (SQLAlchemy) via Supabase; engineered API Gateways & Rate Limiting services for **~200ms CRUD latency**.
     *   Implemented Llama 70B model for AI-enabled mock interviews, tuning error handling to reduce AI latency to **800–1000ms**.
-*   🧠 **CanSpirit Artificial Intelligence** | **Software Engineering Intern - AI** | *Aug 2025 – Feb 2026*
+*   **CanSpirit Artificial Intelligence** | **Software Engineering Intern - AI** | *Aug 2025 – Feb 2026*
     *   Developed an Emotion Analytics Detection system for disabled students, analyzing **1,000 videos at 5 FPS**.
     *   Implemented an Extra Trees algorithm achieving **88% accuracy**, outperforming Deep Learning baselines, KNN (78%), and Random Forest (83%).
     *   Ensured consistent **800–1000ms API latency** through structured pipeline logging and monitoring.
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 HireMintora — AI Recruiting Platform</h4>
+      <h4>HireMintora — AI Recruiting Platform</h4>
       <p>Real-time conversational AI screening using WebSockets, Groq (Llama 70B), TTS/STT, Monaco Editor, and Redis context caching.</p>
       <p>
         <a href="https://github.com/SuyashBhavalkar3"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
@@ -97,7 +97,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <p><sub><b>Impact:</b> Scaled to handle 50 concurrent WebSocket connections; automated reporting for 100+ users.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ AutoDeck AI — Autonomous Slide Agent</h4>
+      <h4>AutoDeck AI — Autonomous Slide Agent</h4>
       <p>Multi-agent pipeline (planner–executor) using FastAPI, JWT, Google OAuth, and GPT-3.5 Turbo to generate 5–10 slide decks in &lt;10 seconds with dynamic media.</p>
       <p>
         <a href="https://github.com/SuyashBhavalkar3/Autonomous_Generative_AI_Agent_for_Presentation_Creation"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
@@ -107,7 +107,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚖️ AdvocateGPT — RAG Legal Assistant</h4>
+      <h4>AdvocateGPT — RAG Legal Assistant</h4>
       <p>RAG pipeline embedding IPC text using Hugging Face (text-embedding-3) into FAISS, with MS MARCO Cross-Encoder reranking for legal precedent search.</p>
       <p>
         <a href="https://github.com/SuyashBhavalkar3/RAG_based_Legal_and_Policy_Document_Assistant"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
@@ -115,7 +115,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
       <p><sub><b>Impact:</b> Verified and measured retrieval effectiveness using Precision@k, Recall@k, and MRR.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 MRI Brain Tumor Classification</h4>
+      <h4>MRI Brain Tumor Classification</h4>
       <p>Deep learning computer vision system for automated brain tumor detection from MRI scans using transfer learning with EfficientNet.</p>
       <p>
         <a href="https://github.com/SuyashBhavalkar3/mri-brain-tumor-classification-efficientnet"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
@@ -127,15 +127,15 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 
 ---
 
-### 🏆 Research & Achievements
+### Research & Achievements
 
-*   📚 **Research Publications:** Contributed to **2 IEEE publications** in conferences focusing on applications of AI and data-driven systems.
-*   🧩 **Problem Solving:** Solved **250+ LeetCode problems** with a **1500+ contest rating** (strong Data Structures & Algorithms foundation).
-*   🤝 **Leadership:** Managed a team of 10+ members for Vishwaconclave (stage, light, audio setups) and led 25 coordinators achieving **3,000+ registrations** during SWDC's Matadhikar campaign.
+*   **Research Publications:** Contributed to **2 IEEE publications** in conferences focusing on applications of AI and data-driven systems.
+*   **Problem Solving:** Solved **250+ LeetCode problems** with a **1500+ contest rating** (strong Data Structures & Algorithms foundation).
+*   **Leadership:** Managed a team of 10+ members for Vishwaconclave (stage, light, audio setups) and led 25 coordinators achieving **3,000+ registrations** during SWDC's Matadhikar campaign.
 
 ---
 
-### 📊 Real-time Stats
+### Real-time Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
