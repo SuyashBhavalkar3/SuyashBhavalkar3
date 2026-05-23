@@ -1,90 +1,143 @@
-# Suyash Bhavalkar
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Suyash Bhavalkar Banner" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-phi-gilt-w3w25anfsq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=react&logoColor=00f2fe" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/suyashbhavalkar3/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=00f2fe" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/suyashbhavalkar3/"><img src="https://img.shields.io/badge/LeetCode-0b1120?style=for-the-badge&logo=leetcode&logoColor=00f2fe" alt="LeetCode" /></a>
+  <a href="https://github.com/SuyashBhavalkar3"><img src="https://img.shields.io/badge/GitHub-0b1120?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 👋 Hi there!
+### 💫 About Me
 
-I’m Suyash, a passionate developer crafting beautiful digital experiences. I specialize in building modern web applications with clean code and thoughtful user interfaces!
+I am a **Computer Science Engineering student** at **Vishwakarma Institute of Technology (VIT), Pune**, specializing in **Artificial Intelligence & Machine Learning** (Expected May 2027). 
 
----
+I build high-performance backend systems and scale AI pipelines for real-world applications. My work focuses on distributed architectures, fault-tolerant system design, and sub-second latency optimization.
 
-### About Me
-- 🔭 I’m currently working on generative AI models and their real-world applications.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 🤝 I’m looking for help with advanced algorithms and data structures.
-- 🌱 I’m currently learning about cloud computing and DevOps.
-- 💬 Ask me about web development, AI/ML, and programming languages.
-- ⚡ Fun fact: I can code without coffee!
+*   🚀 **Performance Driven:** Engineered production-grade systems serving 1,000+ users with **<450ms latency**.
+*   🧠 **AI/ML Focus:** Experienced in LLM orchestration, RAG pipelines, and model fine-tuning/evaluation.
+*   📊 **Academics & Research:** Maintaining a **8.39 CGPA** with **2 IEEE publications** in AI-driven systems.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technical Toolbelt
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-#### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=nltk&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logo=graph&logoColor=white)
-
-#### Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 1. 🤖 [Autonomous Generative AI Agent for Presentation Creation](https://github.com/SuyashBhavalkar3/Autonomous_Generative_AI_Agent_for_Presentation_Creation)
-Built an autonomous generative AI system that converts natural language prompts into professional PowerPoint presentations.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=flat-square&logo=graph) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-
-#### 2. 📚 [RAG-based Legal & Policy Document Assistant](https://github.com/SuyashBhavalkar3/RAG_based_Legal_and_Policy_Document_Assistant)
-Developed an AI-powered document intelligence system for legal and policy PDFs using RAG.
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chain) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-
-#### 3. 🧠 [MRI-Based Brain Tumor Classification](https://github.com/SuyashBhavalkar3/mri-brain-tumor-classification-efficientnet)
-Designed a deep learning system for automated brain tumor detection from MRI scans.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-
-#### 4. 😴 [Driver Drowsiness Detection System](https://github.com/SuyashBhavalkar3/Driver_Drowsiness_Detection_System)
-Engineered a real-time computer vision system to detect driver fatigue using facial landmarks.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-
-#### 5. 🔐 [CryptoLock – Secure Text Encryption Platform](https://github.com/SuyashBhavalkar3/CryptoLock-Text_encryption_using_cryptographic_algorithms)
-Developed a secure web-based encryption platform for protecting sensitive information.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Security](https://img.shields.io/badge/Security-FF6B6B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-
----
-<!--
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=radical) -->
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend &amp; Distributed Systems</h4>
+      <img src="https://img.shields.io/badge/FastAPI-10141d?style=flat-square&logo=fastapi&logoColor=00f2fe" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/REST_APIs-10141d?style=flat-square&logo=postman&logoColor=00f2fe" alt="REST" />
+      <img src="https://img.shields.io/badge/WebSockets-10141d?style=flat-square&logo=socketdotio&logoColor=00f2fe" alt="WebSockets" />
+      <img src="https://img.shields.io/badge/Docker-10141d?style=flat-square&logo=docker&logoColor=00f2fe" alt="Docker" />
+      <img src="https://img.shields.io/badge/Redis-10141d?style=flat-square&logo=redis&logoColor=00f2fe" alt="Redis" />
+      <img src="https://img.shields.io/badge/PostgreSQL-10141d?style=flat-square&logo=postgresql&logoColor=00f2fe" alt="Postgres" />
+      <img src="https://img.shields.io/badge/Supabase-10141d?style=flat-square&logo=supabase&logoColor=00f2fe" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Git-10141d?style=flat-square&logo=git&logoColor=00f2fe" alt="Git" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Artificial Intelligence &amp; ML</h4>
+      <img src="https://img.shields.io/badge/LangChain-10141d?style=flat-square&logo=chainlink&logoColor=00f2fe" alt="LangChain" />
+      <img src="https://img.shields.io/badge/TensorFlow-10141d?style=flat-square&logo=tensorflow&logoColor=00f2fe" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-10141d?style=flat-square&logo=scikitlearn&logoColor=00f2fe" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-10141d?style=flat-square&logo=meta&logoColor=00f2fe" alt="RAG" />
+      <img src="https://img.shields.io/badge/FAISS-10141d?style=flat-square&logo=facebook&logoColor=00f2fe" alt="FAISS" />
+      <img src="https://img.shields.io/badge/LLM_Orchestration-10141d?style=flat-square&logo=openai&logoColor=00f2fe" alt="LLMs" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔤 Languages</h4>
+      <img src="https://img.shields.io/badge/Python-10141d?style=flat-square&logo=python&logoColor=00f2fe" alt="Python" />
+      <img src="https://img.shields.io/badge/Node.js-10141d?style=flat-square&logo=nodedotjs&logoColor=00f2fe" alt="Node.js" />
+      <img src="https://img.shields.io/badge/GoLang-10141d?style=flat-square&logo=go&logoColor=00f2fe" alt="GoLang" />
+      <img src="https://img.shields.io/badge/Java-10141d?style=flat-square&logo=openjdk&logoColor=00f2fe" alt="Java" />
+      <img src="https://img.shields.io/badge/TypeScript-10141d?style=flat-square&logo=typescript&logoColor=00f2fe" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQL-10141d?style=flat-square&logo=postgresql&logoColor=00f2fe" alt="SQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend &amp; Deployments</h4>
+      <img src="https://img.shields.io/badge/React.js-10141d?style=flat-square&logo=react&logoColor=00f2fe" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-10141d?style=flat-square&logo=nextdotjs&logoColor=00f2fe" alt="Next" />
+      <img src="https://img.shields.io/badge/Vue.js-10141d?style=flat-square&logo=vuedotjs&logoColor=00f2fe" alt="Vue" />
+      <img src="https://img.shields.io/badge/Vercel-10141d?style=flat-square&logo=vercel&logoColor=00f2fe" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-10141d?style=flat-square&logo=render&logoColor=00f2fe" alt="Render" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Connect with Me
-- 🌐 [Portfolio](https://portfolio-phi-gilt-w3w25anfsq.vercel.app/)
-- 🐙 [GitHub](https://github.com/SuyashBhavalkar3)
-- 💼 [LinkedIn](https://www.linkedin.com/in/suyashbhavalkar3/)
-- 🧠 [LeetCode](https://leetcode.com/u/suyashbhavalkar3/)
+### 💼 Professional Experience
+
+*   🤖 **CodeSpyder Technologies** | **GenAI Intern** | *Feb 2026 – Present*
+    *   Managing a team of **6 interns** developing a Learning Management System (LMS) scaling to **1,000+ users** and **100+ concurrent sessions**.
+    *   Designed a FastAPI & Next.js backend with PostgreSQL (SQLAlchemy) via Supabase; engineered API Gateways & Rate Limiting services for **~200ms CRUD latency**.
+    *   Implemented Llama 70B model for AI-enabled mock interviews, tuning error handling to reduce AI latency to **800–1000ms**.
+*   🧠 **CanSpirit Artificial Intelligence** | **Software Engineering Intern - AI** | *Aug 2025 – Feb 2026*
+    *   Developed an Emotion Analytics Detection system for disabled students, analyzing **1,000 videos at 5 FPS**.
+    *   Implemented an Extra Trees algorithm achieving **88% accuracy**, outperforming Deep Learning baselines, KNN (78%), and Random Forest (83%).
+    *   Ensured consistent **800–1000ms API latency** through structured pipeline logging and monitoring.
 
 ---
+
+### 🚀 Highlighted Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 HireMintora — AI Recruiting Platform</h4>
+      <p>Real-time conversational AI screening using WebSockets, Groq (Llama 70B), TTS/STT, Monaco Editor, and Redis context caching.</p>
+      <p>
+        <a href="https://github.com/SuyashBhavalkar3"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
+      </p>
+      <p><sub><b>Impact:</b> Scaled to handle 50 concurrent WebSocket connections; automated reporting for 100+ users.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ AutoDeck AI — Autonomous Slide Agent</h4>
+      <p>Multi-agent pipeline (planner–executor) using FastAPI, JWT, Google OAuth, and GPT-3.5 Turbo to generate 5–10 slide decks in &lt;10 seconds with dynamic media.</p>
+      <p>
+        <a href="https://github.com/SuyashBhavalkar3/Autonomous_Generative_AI_Agent_for_Presentation_Creation"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
+      </p>
+      <p><sub><b>Impact:</b> Reduced manual presentation creation effort by 80% with real-time generations.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚖️ AdvocateGPT — RAG Legal Assistant</h4>
+      <p>RAG pipeline embedding IPC text using Hugging Face (text-embedding-3) into FAISS, with MS MARCO Cross-Encoder reranking for legal precedent search.</p>
+      <p>
+        <a href="https://github.com/SuyashBhavalkar3/RAG_based_Legal_and_Policy_Document_Assistant"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
+      </p>
+      <p><sub><b>Impact:</b> Verified and measured retrieval effectiveness using Precision@k, Recall@k, and MRR.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 MRI Brain Tumor Classification</h4>
+      <p>Deep learning computer vision system for automated brain tumor detection from MRI scans using transfer learning with EfficientNet.</p>
+      <p>
+        <a href="https://github.com/SuyashBhavalkar3/mri-brain-tumor-classification-efficientnet"><img src="https://img.shields.io/badge/Repository-10141d?style=flat-square&logo=github&logoColor=00f2fe" alt="Repo" /></a>
+      </p>
+      <p><sub><b>Impact:</b> Automated screening process of complex medical image data with low classification latency.</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Research & Achievements
+
+*   📚 **Research Publications:** Contributed to **2 IEEE publications** in conferences focusing on applications of AI and data-driven systems.
+*   🧩 **Problem Solving:** Solved **250+ LeetCode problems** with a **1500+ contest rating** (strong Data Structures & Algorithms foundation).
+*   🤝 **Leadership:** Managed a team of 10+ members for Vishwaconclave (stage, light, audio setups) and led 25 coordinators achieving **3,000+ registrations** during SWDC's Matadhikar campaign.
+
+---
+
+### 📊 Real-time Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&border_color=30363d&hide_border=false" width="48%" alt="Top Languages" />
+</p>
