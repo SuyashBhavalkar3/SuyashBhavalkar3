@@ -138,7 +138,7 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 ### Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SuyashBhavalkar3" width="100%" alt="3D Contribution Calendar" />
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar" />
 </p>
 
 <br />
@@ -159,8 +159,8 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <br />
