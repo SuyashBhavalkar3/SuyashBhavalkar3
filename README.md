@@ -158,10 +158,18 @@ I build high-performance backend systems and scale AI pipelines for real-world a
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBhavalkar3&show_icons=true&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuyashBhavalkar3&layout=compact&theme=dark&bg_color=050814&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>General Profile Stats</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuyashBhavalkar3&theme=github_dark" width="100%" alt="GitHub Profile Details" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Language Utilization</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuyashBhavalkar3&theme=github_dark" width="100%" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
